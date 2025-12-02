@@ -96,3 +96,4 @@ More insights can be added as the project expands.
 3. If the data is not embedded, place the dataset in the correct folder path.
 
 ---
+[Table of Contents](#table-of-Contents)
