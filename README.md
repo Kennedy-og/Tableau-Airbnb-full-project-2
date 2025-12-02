@@ -9,10 +9,7 @@
 6. [Key Visualizations](#key-visualizations)  
 7. [Insights and Findings](#insights-and-findings)  
 8. [How to Open the Project](#how-to-open-the-project)  
-9. [Folder Structure](#folder-structure)  
-10. [Future Enhancements](#future-enhancements)  
-11. [Acknowledgements](#acknowledgements)  
-
+ 
 ---
 
 ## Project Overview
